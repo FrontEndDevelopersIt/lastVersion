@@ -1,0 +1,7 @@
+export const apiDomain = 'http://api.spidergrodno.tk/api/'
+export const allVacancy = apiDomain + 'vacancy/'
+export const search = apiDomain + 'search/'
+export const favorite = apiDomain + 'vacancy/favorite/'
+export const logout = apiDomain + 'logout'
+export const user = apiDomain + 'user'
+export const login = apiDomain + 'login'
